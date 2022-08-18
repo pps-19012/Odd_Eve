@@ -1,6 +1,9 @@
 # Odd_Eve
 This smart contract was deployed on Rinkeby Testnet Network.
 
+## About the files present in this repos:
+ - 
+
 ### Address of Deployed Smart Contract:
 0x50eAD59e664DbF9252aF0487Fc8fECA92403d1f7 - [View on Rinkeby Etherscan](https://rinkeby.etherscan.io/address/0x50eAD59e664DbF9252aF0487Fc8fECA92403d1f7)
 
