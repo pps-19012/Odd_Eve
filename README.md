@@ -26,6 +26,9 @@ Here, the user input is equal to 0 which is not between desired range. Hence, th
 Here, the user input is equal to 10 which is not between desirec range. Hence, the transaction will fail with custom error - "Invalid Input (input not in range)"
 
 ## Deployment on Remix IDE
+
+![remix ui](https://github.com/pps-19012/Odd_Eve/blob/main/remixui.png)
+
 - Functions
   - Play - User will provide input, i.e., the human input to the program.
   - Reset - Once the computer loses, user must reset the game to start again.
@@ -35,6 +38,7 @@ Here, the user input is equal to 10 which is not between desirec range. Hence, t
   - humanInput - input given by the user.
   - runs - the runs scored by batsman, i.e., by computer
  
-![remix ui](https://github.com/pps-19012/Odd_Eve/blob/main/remixui.png)
+ Example output (note the decoded output):
+ ![output](https://github.com/pps-19012/Odd_Eve/blob/main/output.png)
 
 
