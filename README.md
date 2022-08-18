@@ -13,3 +13,6 @@ Here, the user input is equal to 1 which is between desired range. Hence, the tr
 
 - [User Input = 0](https://rinkeby.etherscan.io/tx/0x28e02a0c12e508b18b25e92422c1b12f8cbdb6a26283f1523a0095a55f0e1047)
 Here, the user input is equal to 0 which is not between desired range. Hence, the transaction will fail with the custom error - "Invalid Input (input not in range)"
+
+- [User Input = 10](https://rinkeby.etherscan.io/tx/0xb0d9c7e471c5104cf39eed1a0324c861a934a012d6816cdefa2a00eb269e5640)
+Here, the user input is equal to 10 which is not between desirec range. Hence, the transaction will fail with custom error - "Invalid Input (input not in range)"
