@@ -2,10 +2,10 @@
 This smart contract was deployed on Rinkeby Testnet Network.
 
 ## About the files present in this repo
- - OddEve.sol is the primary file containing the Solidity code and it was deployed on the Rinkeby Testnet Network.
- - oddeve.test.js is the primary file used for testing the smart contract. It uses Chai for testing various functions and variables.
- - TestOddEve.sol is an additional file. It imports OddEve.sol and acts as a test file for OddEve.sol. It makes interaction easy using Remix IDE.
- - scenario.json is an additional file. It contains the data of some of the intial transactions that were performed on the Remix IDE.
+ - [OddEve.sol](https://github.com/pps-19012/Odd_Eve/blob/main/OddEve.sol) is the primary file containing the Solidity code and it was deployed on the Rinkeby Testnet Network.
+ - [oddeve.test.js](https://github.com/pps-19012/Odd_Eve/blob/main/oddeve.test.js) is the primary file used for testing the smart contract. It uses [Chai](https://www.chaijs.com/) for testing various functions and variables.
+ - [TestOddEve.sol](https://github.com/pps-19012/Odd_Eve/blob/main/TestOddEve.sol) is an additional file. It imports OddEve.sol and acts as a test file for OddEve.sol. It makes interaction easy using Remix IDE.
+ - [scenario.json](https://github.com/pps-19012/Odd_Eve/blob/main/scenario.json) is an additional file. It contains the data of some of the intial transactions that were performed on the Remix IDE.
 
 ### Address of Deployed Smart Contract:
 0x50eAD59e664DbF9252aF0487Fc8fECA92403d1f7 - [View on Rinkeby Etherscan](https://rinkeby.etherscan.io/address/0x50eAD59e664DbF9252aF0487Fc8fECA92403d1f7)
