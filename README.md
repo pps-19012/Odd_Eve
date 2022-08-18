@@ -1,7 +1,7 @@
 # Odd_Eve
 This smart contract was deployed on Rinkeby Testnet Network.
 
-## About the files present in this repos:
+## About the files present in this repo
  - OddEve.sol is the primary file containing the Solidity code and it was deployed on the Rinkeby Testnet Network.
  - oddeve.test.js is the primary file used for testing the smart contract. It uses Chai for testing various functions and variables.
  - TestOddEve.sol is an additional file. It imports OddEve.sol and acts as a test file for OddEve.sol. It makes interaction easy using Remix IDE.
