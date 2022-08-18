@@ -6,8 +6,11 @@ This smart contract was deployed on Rinkeby Testnet Network.
 
 ## Transactions
 Deployment Transaction: [View on Etherscan](https://rinkeby.etherscan.io/tx/0x90ec0851c29e8a419cb0052e0bb82b793b1ad32a9a591bfe5da127521d6b63c4) 
+
 These are the list of some initial transactions:
 - [User Input = 1](https://rinkeby.etherscan.io/tx/0x037e240baf769c3777866b5bea0a7bac4969548b036be10a2275f35b956085b8)
+
 Here, the user input is equal to 1 which is between desired range. Hence, the transaction is fulfilled.
 - [User Input = 0](https://rinkeby.etherscan.io/tx/0x28e02a0c12e508b18b25e92422c1b12f8cbdb6a26283f1523a0095a55f0e1047)
+
 Here, the user input is equal to 0 which is not between desired range. Hence, the transaction will fail with the custom error - "Invalid Input (input not in range)"
