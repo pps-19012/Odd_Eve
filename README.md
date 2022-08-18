@@ -57,4 +57,7 @@ Result of Testing:
 
 Note:
 For oddeve.test.js to work metadata should be given a correct path.
+
 ```const metadata = JSON.parse(await remix.call('fileManager', 'getFile', 'contracts/Dyeus_test/artifacts/OddEve.json'))```
+
+Here, the third argument, which gives the path of .json should be changed according to where the artifacts are stored in your folders.
