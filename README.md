@@ -43,7 +43,7 @@ Here, the user input is equal to 10 which is not between desirec range. Hence, t
 
 ## Testing
 
-Testing is implemented using Chai. In the testing, I have tried to test the edge cases and determine that smart contract works properly in all possible scenarios.
+Testing is implemented using Chai. In the testing, I have tried to test the edge cases and determine that smart contract works properly in all possible scenarios. Creates a new instance and checks relevant functions and variables.
 
 Result of Testing:
 
