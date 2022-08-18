@@ -26,5 +26,10 @@ Here, the user input is equal to 0 which is not between desired range. Hence, th
 Here, the user input is equal to 10 which is not between desirec range. Hence, the transaction will fail with custom error - "Invalid Input (input not in range)"
 
 ## Deployment on Remix IDE
-
+- Functions
+  - Play - User will provide input, i.e., the human input to the program.
+  - Reset - Once the computer loses, user must reset the game to start again.
+ 
 ![remix ui](https://github.com/pps-19012/Odd_Eve/blob/main/remixui.png)
+
+
