@@ -12,7 +12,7 @@ This smart contract was deployed on Rinkeby Testnet Network.
 
 ![transactions](https://github.com/pps-19012/Odd_Eve/blob/main/transactions.png)
 
-## Transactions
+## Transactions and Deployment
 Deployment Transaction: [View on Etherscan](https://rinkeby.etherscan.io/tx/0x90ec0851c29e8a419cb0052e0bb82b793b1ad32a9a591bfe5da127521d6b63c4) 
 
 These are the list of some initial transactions:
@@ -25,7 +25,7 @@ Here, the user input is equal to 0 which is not between desired range. Hence, th
 - [User Input = 10](https://rinkeby.etherscan.io/tx/0xb0d9c7e471c5104cf39eed1a0324c861a934a012d6816cdefa2a00eb269e5640)
 Here, the user input is equal to 10 which is not between desirec range. Hence, the transaction will fail with custom error - "Invalid Input (input not in range)"
 
-## Deployment on Remix IDE
+## Remix Interaction
 
 ![remix ui](https://github.com/pps-19012/Odd_Eve/blob/main/remixui.png)
 
