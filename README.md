@@ -41,4 +41,11 @@ Here, the user input is equal to 10 which is not between desirec range. Hence, t
  Example output (note the decoded output):
  ![output](https://github.com/pps-19012/Odd_Eve/blob/main/output.png)
 
+## Testing
+
+Testing is formed using Chai. In the testing, I have tried to test the edge cases and determine that smart contract works properly in all possible scenarios.
+
+Result of Testing:
+
+![test](https://github.com/pps-19012/Odd_Eve/blob/main/test.png)
 
