@@ -55,7 +55,8 @@ Result of Testing:
 - Create OddEve.sol file and copy the contents from [here](https://github.com/pps-19012/Odd_Eve/blob/main/OddEve.sol).
 - Similarly, create oddeve.test.js file and copy the contents from [here](https://github.com/pps-19012/Odd_Eve/blob/main/oddeve.test.js).
 
-Note:
+**Note:**
+
 For oddeve.test.js to work metadata should be given a correct path.
 
 ```const metadata = JSON.parse(await remix.call('fileManager', 'getFile', 'contracts/Dyeus_test/artifacts/OddEve.json'))```
